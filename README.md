@@ -4,7 +4,7 @@
 Survey to Identify Emerging Infectious Disease Datasets for Machine-Learning (ML)
 
 ## Project Team: 
-Jim Hu, Kerry Hu, Mahitha Kotipalli, Malin Ortenblad, Niranjana Moleyar
+Mengyao He, Om Vaghasia and Panagiotis Misirlis 
 
 Affiliation: Columbia University
 
