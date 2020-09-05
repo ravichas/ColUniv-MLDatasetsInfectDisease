@@ -1,7 +1,7 @@
 # ColUniv-MLDatasetsInfectDisease
 
 ## Project: 
-Survey to Identify Emerging Infectious Disease Datasets for ML
+Survey to Identify Emerging Infectious Disease Datasets for Machine-Learning (ML)
 
 ## Project Team: 
 Jim Hu, Kerry Hu, Mahitha Kotipalli, Malin Ortenblad, Niranjana Moleyar
